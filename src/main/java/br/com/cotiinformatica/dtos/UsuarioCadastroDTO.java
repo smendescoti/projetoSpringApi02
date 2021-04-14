@@ -3,9 +3,7 @@ package br.com.cotiinformatica.dtos;
 public class UsuarioCadastroDTO {
 
 	private String nome;
-	private String email;
-	
-	
+	private String email;	
 	private String senha;
 	private String senhaConfirmacao;
 
